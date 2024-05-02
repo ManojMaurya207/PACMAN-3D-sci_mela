@@ -13,7 +13,7 @@ Pacman-3D is a Unity game project that brings the classic Pac-Man game into a 3D
 
 ## Sample gameplay
 
-![Gameplay Preview](https://github.com/ManojMaurya207/PACMAN-3D-sci_mela/blob/main/video.mp4)
+![Gameplay Preview](https://github.com/ManojMaurya207/PACMAN-3D-sci_mela/blob/main/video.gif)
 
 ## Getting Started
 
